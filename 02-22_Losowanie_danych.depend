@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1456135852 source:g:\algorytmy i struktury danych\02-22_losowanie_danych\main.cpp
+	<iostream>
+	<ctime>
+	<cstdio>
+	<cstdlib>
+
+1456210666 source:f:\algorytmy i struktury danych\02-22_losowanie_danych\main.cpp
+	<iostream>
+	<ctime>
+	<cstdio>
+	<cstdlib>
+	<cmath>
+
+1456406794 source:i:\algorytmy i struktury danych\02-22_losowanie_danych\main.cpp
+	<iostream>
+	<ctime>
+	<cstdio>
+	<cstdlib>
+	<cmath>
+
+1457349120 source:g:\algorytmy i struktury danych\03-07_boubblesort\main.cpp
+	<iostream>
+	<ctime>
+	<cstdio>
+	<cstdlib>
+	<cmath>
+
+1457447398 source:f:\algorytmy i struktury danych\03-07_boubblesort\main.cpp
+	<iostream>
+	<ctime>
+	<cstdio>
+	<cstdlib>
+	<cmath>
+
